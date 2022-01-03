@@ -1,0 +1,30 @@
+C:\Users\raddu\source\repos\The3n+1\The3n+1\bin\Debug\net6.0\The3n+1.exe
+C:\Users\raddu\source\repos\The3n+1\The3n+1\bin\Debug\net6.0\The3n+1.deps.json
+C:\Users\raddu\source\repos\The3n+1\The3n+1\bin\Debug\net6.0\The3n+1.runtimeconfig.json
+C:\Users\raddu\source\repos\The3n+1\The3n+1\bin\Debug\net6.0\The3n+1.dll
+C:\Users\raddu\source\repos\The3n+1\The3n+1\bin\Debug\net6.0\ref\The3n+1.dll
+C:\Users\raddu\source\repos\The3n+1\The3n+1\bin\Debug\net6.0\The3n+1.pdb
+C:\Users\raddu\source\repos\The3n+1\The3n+1\obj\Debug\net6.0\The3n+1.csproj.AssemblyReference.cache
+C:\Users\raddu\source\repos\The3n+1\The3n+1\obj\Debug\net6.0\The3n+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raddu\source\repos\The3n+1\The3n+1\obj\Debug\net6.0\The3n+1.AssemblyInfoInputs.cache
+C:\Users\raddu\source\repos\The3n+1\The3n+1\obj\Debug\net6.0\The3n+1.AssemblyInfo.cs
+C:\Users\raddu\source\repos\The3n+1\The3n+1\obj\Debug\net6.0\The3n+1.csproj.CoreCompileInputs.cache
+C:\Users\raddu\source\repos\The3n+1\The3n+1\obj\Debug\net6.0\The3n+1.dll
+C:\Users\raddu\source\repos\The3n+1\The3n+1\obj\Debug\net6.0\ref\The3n+1.dll
+C:\Users\raddu\source\repos\The3n+1\The3n+1\obj\Debug\net6.0\The3n+1.pdb
+C:\Users\raddu\source\repos\The3n+1\The3n+1\obj\Debug\net6.0\The3n+1.genruntimeconfig.cache
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\bin\Debug\net6.0\The3n+1.exe
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\bin\Debug\net6.0\The3n+1.deps.json
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\bin\Debug\net6.0\The3n+1.runtimeconfig.json
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\bin\Debug\net6.0\The3n+1.dll
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\bin\Debug\net6.0\ref\The3n+1.dll
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\bin\Debug\net6.0\The3n+1.pdb
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\obj\Debug\net6.0\The3n+1.csproj.AssemblyReference.cache
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\obj\Debug\net6.0\The3n+1.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\obj\Debug\net6.0\The3n+1.AssemblyInfoInputs.cache
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\obj\Debug\net6.0\The3n+1.AssemblyInfo.cs
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\obj\Debug\net6.0\The3n+1.csproj.CoreCompileInputs.cache
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\obj\Debug\net6.0\The3n+1.dll
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\obj\Debug\net6.0\ref\The3n+1.dll
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\obj\Debug\net6.0\The3n+1.pdb
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c# .net-6.0\The3n+1\obj\Debug\net6.0\The3n+1.genruntimeconfig.cache
