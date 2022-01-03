@@ -1,0 +1,28 @@
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.exe
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.deps.json
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.runtimeconfig.json
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.runtimeconfig.dev.json
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.dll
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.pdb
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.csproj.AssemblyReference.cache
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.AssemblyInfoInputs.cache
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.AssemblyInfo.cs
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.csproj.CoreCompileInputs.cache
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.dll
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.pdb
+C:\Users\raddu\source\repos\The3n+1Problem\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.genruntimeconfig.cache
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.exe
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.deps.json
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.runtimeconfig.json
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.runtimeconfig.dev.json
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.dll
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\bin\Debug\netcoreapp3.1\The3n+1Problem.pdb
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.csproj.AssemblyReference.cache
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.AssemblyInfoInputs.cache
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.AssemblyInfo.cs
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.csproj.CoreCompileInputs.cache
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.dll
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.pdb
+F:\My Work Station\C# all\Console Applications\The 3n+1 Problem using-c#.net-core-3.1\The3n+1Problem\obj\Debug\netcoreapp3.1\The3n+1Problem.genruntimeconfig.cache
